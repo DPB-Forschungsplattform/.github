@@ -14,7 +14,7 @@ Das zentrale Projekt der DPB-Plattform
   - **(P1)** ist „DTA-BR: ein Basisformat für die deutschsprachige Presse im transatlantischen Raum“. <br/>
 Durch die Bereitstellung der auf Optical Character Recognition (OCR) basierten Digitalisate und der Entwicklung einer Volltextsuche ist dieses Digitalisierungsprojekt mit den drei wissenschaftlichen 
 Projekten der DPB-Plattform verbunden: 
-  - **(P2)** „Kulturelle und religiöse Bildung deutschsprachiger Einwanderer: Wissenstransfer und Wissenserwerb; 
+  - **(P2)** „Kulturelle und religiöse Bildung deutschsprachiger Einwanderer: Wissenstransfer und Wissenserwerb“, 
   - **(P3)** „Deutschsprachige Presse, Öffentlichkeit und Moderne in Brasilien“, und 
   - **(P4)** „The Making of ‚Cheap Nature‘: Deutsche Siedler*innen in der commodity frontier Brasiliens“.
 
