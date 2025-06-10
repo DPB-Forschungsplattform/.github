@@ -21,7 +21,6 @@ Projekten der DPB-Plattform verbunden:
 Das projektübergreifende Management der DPB-Plattform liegt in den Händen des Baden-Württembergischen Brasilien- und Lateinamerika-Zentrums der Universität Tübingen (BraLat), das auch das Forschungsdatenmanagement 
 und die Öffentlichkeitsarbeit für die beteiligten Projekte übernimmt.
 
-💡 **Feedback und neue Ideen sind immer willkommen!**
 
 ## 📬 Kontakt & Community
 Bleib mit uns in Verbindung:
