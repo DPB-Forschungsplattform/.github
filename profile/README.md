@@ -22,5 +22,4 @@ und die Öffentlichkeitsarbeit für die beteiligten Projekte übernimmt.
 
 
 ## 📬 Kontakt & Community
-Bleib mit uns in Verbindung:
-- 📧 E-Mail: dpb@bralat.uni-tuebingen.de
+- 📧 E-Mail: dbp@bralat.uni-tuebingen.de
