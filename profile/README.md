@@ -10,10 +10,9 @@ Die Presseorgane sind Teil der sich ab Mitte der 50er Jahre des 19. Jahrhunderts
 zwischen der Entstehung der modernen brasilianischen Gesellschaft und einer hochgradig globalisierten Öffentlichkeit. Von den ca. 800 Publikationen sollen 22 Periodika, darunter zwei Kalender, die in dem Zeitraum
 von 1852 bis 1941 im brasilianischen Bundesstaat Rio Grande do Sul und vier weiteren Bundesstaaten herausgegeben wurden, digitalisiert werden. 
 
-Das zentrale Projekt der DPB-Plattform 
-  - **(P1)** ist „DTA-BR: ein Basisformat für die deutschsprachige Presse im transatlantischen Raum“. <br/>
-Durch die Bereitstellung der auf Optical Character Recognition (OCR) basierten Digitalisate und der Entwicklung einer Volltextsuche ist dieses Digitalisierungsprojekt mit den drei wissenschaftlichen 
-Projekten der DPB-Plattform verbunden: 
+Das zentrale Projekt der DPB-Plattform ist 
+- **(P1)**  „DTA-BR: Ein Basisformat für die deutschsprachige Presse im transatlantischen Raum“. <br/>
+    Durch die Bereitstellung von Digitalisaten und digitalem Volltext auf Basis der Optical Character Recognition (OCR) sowie der Entwicklung einer Volltextsuche bildet dieses Digitalisierungsprojekt eine zentrale Grundlage und ist eng mit den drei wissenschaftlichen Projekten der DPB-Plattform verbunden:
   - **(P2)** „Kulturelle und religiöse Bildung deutschsprachiger Einwanderer: Wissenstransfer und Wissenserwerb“, 
   - **(P3)** „Deutschsprachige Presse, Öffentlichkeit und Moderne in Brasilien“, und 
   - **(P4)** „The Making of ‚Cheap Nature‘: Deutsche Siedler*innen in der commodity frontier Brasiliens“.
